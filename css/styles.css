@@ -63,6 +63,7 @@ html
 #OptionsMenu
 {
 	background: rgba(235, 241, 246, 1);
+	padding-top: 0.5em;
 }
 
 #OptionsMenu a
