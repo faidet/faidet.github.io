@@ -59,3 +59,8 @@ html
 	background: White;
 	margin: 0.5em 0;
 }
+
+#OptionsMenu
+{
+	background: rgba(235, 241, 246, 1);
+}
