@@ -4,7 +4,9 @@
 	"display" : "fullscreen",
 	"icons" :
 	[
-		"src" : "faicon.svg",
-		"sizes" : "64x64"
+		{
+			"src" : "faicon.svg",
+			"sizes" : "64x64"
+		}
 	]
 }
