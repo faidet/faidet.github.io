@@ -64,3 +64,9 @@ html
 {
 	background: rgba(235, 241, 246, 1);
 }
+
+#OptionsMenu a:hover
+{
+	border: 1px solid Black;
+	border-radius: 8px;
+}
