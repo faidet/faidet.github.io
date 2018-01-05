@@ -46,7 +46,7 @@ html
 	position: absolute;
 }
 
-.Window .Layout
+.Window div
 {
 	background: White;
 	bottom: 0.5em;
