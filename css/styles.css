@@ -28,7 +28,7 @@ html
 
 .Window
 {
-	background: LightBlue;
+	background: rgba(0, 0, 0, 0.5);
 	border: 1px solid Black;
 	right: 0;
 	position: absolute;
