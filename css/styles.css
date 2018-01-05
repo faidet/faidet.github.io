@@ -1,3 +1,9 @@
+*
+{
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	-webkit-user-select: none;
+}
+
 body, html
 {
 	background: url(../65f414d07a9f1f664312ae2c6e319f95.jpg);
