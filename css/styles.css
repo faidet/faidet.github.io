@@ -35,7 +35,7 @@ html
 	right: 0;
 }
 
-.Window:before
+.Window::before
 {
 	background: LightBlue, url(../65f414d07a9f1f664312ae2c6e319f95.jpg) no-repeat fixed center;
 	background-size: cover;
