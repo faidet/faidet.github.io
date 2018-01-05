@@ -44,11 +44,12 @@ html
 	display: block;
 	filter: blur(15px);
 	opacity: 0.9;
+	padding: 0.5em;
 	position: absolute;
 }
 
 .Window .Layout
 {
 	background: White;
-	margin: 2em 0.5em 0.5em 0.5em;
+	margin: 0.5em;
 }
