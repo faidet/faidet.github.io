@@ -1,4 +1,7 @@
 body
 {
 	background: url(../65f414d07a9f1f664312ae2c6e319f95.jpg);
+	height: 100%;
+	object-fit: cover;
+	width: 100%;
 }
