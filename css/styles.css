@@ -25,6 +25,10 @@ html
 	background: White;
 }
 
+.Toolbar
+{
+	background: linear-gradient(to top, rgba(0, 0, 0, 0), 50% White, 51% Black);
+}
 
 .Window
 {
