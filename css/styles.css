@@ -35,8 +35,9 @@ html
 
 .Window:before
 {
-	background: LightBlue, url(../65f414d07a9f1f664312ae2c6e319f95.jpg);
+	background: LightBlue, url(../65f414d07a9f1f664312ae2c6e319f95.jpg) no-repeat fixed center;
 	background-size: cover;
+	content: " ";
 	display: block;
 	filter: blur(15px);
 	opacity: 0.9;
