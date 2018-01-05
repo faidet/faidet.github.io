@@ -28,7 +28,8 @@ html
 
 .Window
 {
-	background: Black;
+	background: LightBlue;
+	border: 1px solid Black;
 	right: 0;
 	position: absolute;
 }
@@ -36,4 +37,9 @@ html
 .Window:before
 {
 	filter: blur(15px);
+}
+
+.Window .Layout
+{
+	background: White;
 }
