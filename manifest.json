@@ -1,5 +1,10 @@
 {
 	"name" : "FaIDE Toolkit",
 	"short_name" : "FaIDET",
-	"display" : "fullscreen"
+	"display" : "fullscreen",
+	"icons" :
+	[
+		"src" : "faicon.svg",
+		"sizes" : "64x64"
+	]
 }
