@@ -40,7 +40,6 @@ html
 	padding: 0.5em;
 	padding-bottom: 0;
 	position: absolute;
-	right: 0;
 	text-shadow: 0 0 8px White;
 }
 
@@ -58,6 +57,16 @@ html
 {
 	background: White;
 	margin: 0.5em 0;
+}
+
+.Window#Design
+{
+	right: 0;
+}
+
+.Window#Text
+{
+	left: 0;
 }
 
 #OptionsMenu
