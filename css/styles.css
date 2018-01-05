@@ -28,15 +28,18 @@ html
 
 .Window
 {
-	background: rgba(0, 0, 0, 0.5);
+	background: Black;
 	border: 1px solid Black;
-	right: 0;
 	position: absolute;
+	right: 0;
 }
 
 .Window:before
 {
+	display: block;
 	filter: blur(15px);
+	opacity: 0.9;
+	position: absolute;
 }
 
 .Window .Layout
