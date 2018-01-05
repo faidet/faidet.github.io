@@ -29,6 +29,11 @@ html
 .Window
 {
 	background: Black;
-	filter: blur(5px);
+	right: 0;
 	position: absolute;
+}
+
+.Window:before
+{
+	filter: blur(15px);
 }
