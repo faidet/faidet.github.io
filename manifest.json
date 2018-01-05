@@ -5,7 +5,7 @@
 	"icons" :
 	[
 		{
-			"src" : "faicon.svg",
+			"src" : "favicon.svg",
 			"sizes" : "64x64"
 		}
 	]
