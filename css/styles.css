@@ -28,7 +28,9 @@ html
 
 .Window
 {
+	background: LightBlue;
 	border: 1px solid Black;
+	border-radius: 8px;
 	position: absolute;
 	right: 0;
 }
@@ -47,4 +49,9 @@ html
 .Window .Layout
 {
 	background: White;
+	bottom: 0.5em;
+	left: 0.5em;
+	position: absolute;
+	right: 0.5em;
+	top: 2em;
 }
