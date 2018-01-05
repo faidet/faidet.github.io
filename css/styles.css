@@ -37,7 +37,7 @@ html
 	padding-bottom: 0;
 	position: absolute;
 	right: 0;
-	text-shadow: 0 0 16px White;
+	text-shadow: 0 0 4px White;
 }
 
 .Window:before
